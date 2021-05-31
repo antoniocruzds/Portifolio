@@ -7,3 +7,4 @@ Atualmente curso Ciência, Tecnologia, e Inovação pela Universidade Federal da
 Nas horas vagas, gosto bastante de jogos online, ler, e fazer alguns projetos pessoais, explorando dados disponíveis na internet.
 
 ---
+## Projetos
