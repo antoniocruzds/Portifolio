@@ -4,7 +4,4 @@
 
 Atualmente curso Ciência, Tecnologia, e Inovação pela Universidade Federal da Bahia (UFBA), e sendo bastante ativo no meio acadêmico, já fiz parte do Centro Acadêmico, projetos de extensão, e agora estou focado em projetos de pesquisa com raspagem de dados (WebScraping).
 
-Nas horas vagas, gosto bastante de jogos online, ler, e fazer alguns projetos pessoais, explorando dados disponíveis na internet.
-
-
-## Projetos
+## Projetos Desenvolvidos
