@@ -9,7 +9,7 @@
 [instagram]: https://instagram.com/DataNeto
 [linkedin]: https://linkedin.com/in/antoniocruzds
 
-
+---
 
   Sou um entusiasta do grande mundo da Ciência de Dados e suas técnicas de aprendizado de máquina e Big Data para resolver problemas. Sempre buscando ajudar as pessoas a compreender seus dados e tomar as melhores decisões a partir deles.
 
