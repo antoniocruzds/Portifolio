@@ -1,6 +1,15 @@
 ## <p align="center">*Antonio de Sousa Cruz Neto | @DataNeto* </p>
 
-redes sociais: @DataNeto
+[<img align="right" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="right" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[twitter]: https://twitter.com/Antoniocruzds
+[instagram]: https://instagram.com/DataNeto
+[linkedin]: https://linkedin.com/in/antoniocruzds
+
+
 
   Sou um entusiasta do grande mundo da Ciência de Dados e suas técnicas de aprendizado de máquina e Big Data para resolver problemas. Sempre buscando ajudar as pessoas a compreender seus dados e tomar as melhores decisões a partir deles.
 
